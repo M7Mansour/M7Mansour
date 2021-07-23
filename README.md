@@ -20,7 +20,7 @@
   <br>
   🔬 I'm currently studying for a Bachelor's degree in Islamic University of Gaza Computer Engineering Department
   <br>
-  🎓 I graduated from Arafat high school for gifted boys Science High School
+  🎓 I graduated from Arafat high school for gifted boys Science
   <br>
   💻 I love writing code and learn anythings about it
   <br>
