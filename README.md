@@ -8,10 +8,10 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/mohammad-h-mansour-ab23961b3/" title="LinkedIn Profile"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg" target="blank"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/M7M2000/" title="LeetCode Profile"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/leetcode.svg" target="blank"> LeetCode</a></code>
+    <a href="https://www.linkedin.com/in/mohammad-h-mansour-ab23961b3/" title="LinkedIn Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/M7M2000/" title="LeetCode Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/leetcode.svg"> LeetCode</a></code>
   <code><a href="https://github.com/M7Mansour" title="gitHub Profile"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/github.svg"> GitHub</a></code>
-  <code><a href="https://twitter.com/MohammadHManso2" title="Twitter Profile"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/twitter.svg" target="blank"> Twitter</a></code>
+  <code><a href="https://twitter.com/MohammadHManso2" title="Twitter Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/twitter.svg"> Twitter</a></code>
 </h5>
 <br>
 <p align="center">
