@@ -86,7 +86,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/M7Mansour/Calculator" title="Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/GSG-G10/Team2-ERMM-website" title="Team2-ERMM-website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=GSG-G10&repo=Team2-ERMM-website&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/GSG-G10/egy-film" title="egy-film"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=GSG-G10&repo=egy-film&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
