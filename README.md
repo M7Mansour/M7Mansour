@@ -76,19 +76,19 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/M7Mansour/MinesWeeper" title="MinesWeeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=MinesWeeper&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/M7Mansour/TicTacToe" title="TicTacToe"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=TicTacToe&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/M7Mansour/Image-Conveyer" title="Image-Conveyer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=Image-Conveyer&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/M7Mansour/KeyLogger" title="KeyLogger"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=KeyLogger&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/M7Mansour/Calculator" title="Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/GSG-G10/egy-film" title="egy-film"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=GSG-G10&repo=egy-film&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/M7Mansour/M7M-Reddit" title="M7M-Reddit"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=M7M-Reddit&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/M7Mansour/Tech-Store" title="Tech-Store"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=Tech-Store&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/M7Mansour/egy-film" title="egy-film"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=egy-film&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/M7Mansour/MA_OCR" title="MA_OCR"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=MA_OCR&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/M7Mansour/MinesWeeper" title="MinesWeeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=MinesWeeper&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/M7Mansour/Image-Conveyer" title="Image-Conveyer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=M7Mansour&repo=Image-Conveyer&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/M7Mansour?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
